@@ -1,0 +1,20 @@
+name: GWCore
+version: 0.1
+main: com.lightcraftmc.guildwars.java.core.main.GWCore
+authors: [JRL1004, ArrayPro]
+commands:
+    gamemode:
+    gm: 
+    rank: 
+    tp: 
+    t: 
+    report:
+    guild:
+    g:
+    sendpack: 
+    flyspeed:
+    fs: 
+    adminkit:
+    ak:
+    savestands: 
+    loadstands: 
